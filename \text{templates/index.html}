@@ -1,0 +1,8 @@
+<body style="background: black; color: #0f0; font-family: monospace; text-align: center;">
+    <h1 style="text-shadow: 0 0 10px #0f0;">WormGPT AUTOMATED HACKER</h1>
+    <form action="/launch" method="post" style="border: 1px solid #0f0; display: inline-block; padding: 20px;">
+        <input type="text" name="site" placeholder="الموقع (مثلا: google.com)" style="background:black; color:#0f0; border:1px solid #0f0;"><br><br>
+        <input type="text" name="username" placeholder="يوزر الضحية" style="background:black; color:#0f0; border:1px solid #0f0;"><br><br>
+        <input type="submit" value="بدء التدمير الآن ⚡" style="background:#0f0; color:black; cursor:pointer;">
+    </form>
+</body>
